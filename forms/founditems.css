@@ -68,6 +68,7 @@ flex-wrap: wrap; /* Allow cards to wrap to next line */
 #foundheading{
     text-align: center;
     color: #007bff;
+    transition-timing-function: linear;
     
 }
 #foundheading:hover{
