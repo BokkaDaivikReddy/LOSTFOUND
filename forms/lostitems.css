@@ -102,7 +102,7 @@ justify-content: space-between;
 #lostheading{
     text-align: center;
     color: #007bff;
-    transition-timing-function: linear;
+    transition: all 0.3s ease 0s;
     
 }
 #lostheading:hover{
